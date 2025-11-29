@@ -27,7 +27,7 @@ const portfolio = {
           <p className="text-gray-300">- Developing the backend of an application portal.</p> 
         </div>
         <div>
-          <span className="text-yellow-500">Research Assistant - University of Alberta</span>
+          <span className="text-yellow-500">Research Assistant @ University of Alberta</span>
           <p className="text-gray-400 text-sm">May 2025 - Aug. 2025</p>
           <p className="text-gray-300">- Developed a Java/C++ graphics rendering application.</p>
           <p className="text-gray-300">- Research project: Finding Periodic trajectories on a billards table.</p>
